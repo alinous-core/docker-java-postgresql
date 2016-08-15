@@ -1,0 +1,6 @@
+{
+  "name": "Docker-java-postgresql",
+  "tagline": "A Docker buidlfile for minimum setting with Java SDK and PostgreSQL",
+  "body": "docker-java-postgresql\r\n======================\r\n\r\nA Docker buidlfile for minimum setting with Java SDK and PostgreSQL.\r\nThis build file is to setup\r\n\r\n- Latest Cent OS\r\n- PostgreSQL\r\n- Open JDK\r\n\r\nThe detail about the Docker image built by this build file is following page.\r\n\r\nhttps://www.alinous.org/blog/blog-2014-2/docker-build/\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
