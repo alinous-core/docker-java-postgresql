@@ -11,3 +11,6 @@ This build file is to setup
 The detail about the Docker image built by this build file is following page.
 
 https://www.alinous.org/blog/blog-2014-2/docker-build/
+
+Git hub page
+http://alinous-core.github.io/docker-java-postgresql/
